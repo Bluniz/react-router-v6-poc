@@ -1,0 +1,16 @@
+.auth-button {
+  border: 0;
+  border-radius: 0.5rem;
+  background: var(--pink-dark);
+  height: 2.8rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 1rem 3rem;
+  cursor: pointer;
+
+  font-size: 1rem;
+  color: var(--text-primary);
+}

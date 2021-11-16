@@ -1,0 +1,19 @@
+.link {
+  text-decoration: none;
+  color: var(--text-primary);
+  font-size: 1rem;
+
+  transition: color 0.2s;
+}
+
+.link--active {
+  text-decoration: none;
+  color: var(--pink-light);
+  font-size: 1rem;
+
+  transition: color 0.2s;
+}
+
+.layout__link:hover {
+  color: var(--pink-light);
+}

@@ -1,5 +1,16 @@
+:root {
+  --background-primary: #272323;
+  --text-primary: #f2f2f2;
+  --pink-dark: #822659;
+  --pink-light: #c82f63;
+}
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
 }
